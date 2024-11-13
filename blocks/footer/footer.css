@@ -18,3 +18,87 @@ footer .footer p {
     padding: 40px 32px 24px;
   }
 }
+
+/* --------------------------------------- */
+.footer-sec1-p1-container{
+  display: flex;
+  justify-content: space-between;
+  font-family: 'TangerineCircular', sans-serif;
+  padding-bottom: 60px;
+
+  h5{
+    font-size: 18px;
+    font-family: 'TangerineCircularBold', sans-serif;
+  }
+  h6{
+    font-family: 'TangerineCircularBold', sans-serif;
+    font-size: 20px;
+  }
+}
+
+.footer-sec1-p1{
+  display: flex;
+  width: 384px;
+  height: 355px;
+  line-height: 3;
+
+  >div:last-child{
+    padding-left: 100px;
+  }
+
+  p{
+    font-size: 16px;
+  }
+}
+
+.footer-sec1-p2{
+  display: flex;
+  margin-top: 10px;
+
+  img{
+    margin-top: 18px;
+    padding-right: 10px;
+    width: 20px;
+    height: auto;
+  }
+  padding-left: 200px;
+  padding-right: 100px;
+}
+
+.footer-sec1-p3{
+
+  >div:nth-child(1), :nth-child(3){
+    padding-bottom: 15px;
+  }
+  >div:nth-child(2){
+    padding-bottom: 15px;
+    
+    img{
+      padding-right: 20px;
+    }
+  }
+  >div:nth-child(4){
+    padding-bottom: 25px;
+    
+    img{
+      padding-right: 13px;
+    }
+  }
+  >div:nth-child(5){
+    width: 384px;
+  }
+  >div:nth-child(6) img{
+    width: 100px;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 15px;
+  }
+}
+
+.footer-sec2{
+  display: flex;
+  font-family: 'TangerineCircular', sans-serif;
+  gap: 50px;
+  justify-content: end;
+  padding-bottom: 20px;
+}
