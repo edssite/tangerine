@@ -17,8 +17,13 @@
  @import url("../blocks/custom/chequing-index-sec5.css");
  @import url("../blocks/custom/chequing-index-sec6.css");
  @import url("../blocks/custom/chequing-index-sec7.css");
- 
- 
+ @import url("../blocks/custom/savings-index-sec1.css");
+ @import url("../blocks/custom/savings-index-sec2.css");
+ @import url("../blocks/custom/savings-index-sec3.css");
+ @import url("../blocks/custom/savings-index-sec4.css");
+ @import url("../blocks/custom/savings-index-sec5.css");
+ @import url("../blocks/custom/savings-index-sec6.css");
+
  :root {
   /* colors */
   --background-color: white;
