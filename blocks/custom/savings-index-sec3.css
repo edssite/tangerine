@@ -1,0 +1,30 @@
+.savings-sec3-p1-container{
+    display: flex;
+    margin-left: 125px !important;
+    margin-right: 125px !important;
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+    padding-top: 30px !important;
+    padding-bottom: 48px !important;
+}
+
+.savings-sec3-p1, .savings-sec3-p2{
+    font-family: 'TangerineCircular', sans-serif;
+    width: 592px;
+
+    p{
+        color: #616161;
+    }
+    h5{
+        font-family: 'TangerineCircularBold', sans-serif;   
+        font-size: 28px;
+        margin-top: 10px !important;
+    }
+    img{
+        width: 80px;
+        height: auto;
+    }
+    >div:nth-child(4){
+        padding-top: 35px;
+    }
+}
