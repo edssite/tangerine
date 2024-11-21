@@ -1,0 +1,125 @@
+.chequing-sec6-start-container{
+    margin-bottom: 0px !important;
+}
+.chequing-sec6-start-wrapper{
+    margin-left: 105px !important;
+}
+.chequing-sec6-start{
+    p{
+        font-family: 'TangerineCircularBold', sans-serif;
+        font-size: 24px;
+        margin-bottom: 0px !important;
+    }
+}
+
+.chequing-sec6-p1-container{
+    margin-left: 125px !important;
+    margin-right: 125px !important;
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+    padding-top: 30px !important;
+    padding-bottom: 48px !important;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.chequing-sec6-p1-wrapper{
+    margin-top: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.chequing-sec6-p1{
+
+    width: 596px;
+    height: 589.25px;
+    border-radius: 3%;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, .149);
+
+    img{
+        width: 596px;
+        height: 335.25px;
+        object-fit: cover;
+        border-top-left-radius: 3%;
+        border-top-right-radius: 3%;
+    }
+
+    h6{
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 14px;
+        font-family: 'TangerineCircular', sans-serif;
+        color: #c2185b;
+        margin-top: 30px;
+    }
+    h5{
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 32px;
+        font-family: 'TangerineCircularBold', sans-serif;
+        margin-top: 10px;
+    }
+    p{
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 18px;
+        font-family: 'TangerineCircular', sans-serif;
+        color: #616161;
+    }
+}
+
+.chequing-sec6-p2{
+
+    width: 596px;
+    height: 589.25px;
+    border-radius: 3%;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, .149);
+
+    img{
+        width: 596px;
+        height: 335.25px;
+        object-fit: cover;
+        border-top-left-radius: 3%;
+        border-top-right-radius: 3%;
+    }
+
+    h6{
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 14px;
+        font-family: 'TangerineCircular', sans-serif;
+        color: #c2185b;
+        margin-top: 30px;
+    }
+    h5{
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 32px;
+        font-family: 'TangerineCircularBold', sans-serif;
+        margin-top: 10px;
+    }
+    p{
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 18px;
+        font-family: 'TangerineCircular', sans-serif;
+        color: #616161;
+    }
+}
+
+.chequing-sec6-p3-container{
+    margin-bottom: 25px !important;
+}
+.chequing-sec6-p3{
+    display: flex;
+    gap: 10px;
+
+    font-size: 20px;
+    font-family: 'TangerineCircularBold', sans-serif;
+    
+    img{
+        width: 20px;
+        height: auto;
+        padding-top: 22px;
+    }
+}
